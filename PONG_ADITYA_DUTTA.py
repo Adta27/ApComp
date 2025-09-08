@@ -18,6 +18,9 @@ import math
 WIDTH = 800
 HEIGHT = 600
 
+
+print("Change")
+
 # Load game assets (images for ball, background, and paddles)
 ball = Actor('pongball')  # Ball actor
 background = Actor('background') # Background for level 1
